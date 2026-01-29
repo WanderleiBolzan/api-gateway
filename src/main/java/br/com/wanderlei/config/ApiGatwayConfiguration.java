@@ -1,3 +1,4 @@
+/*
 package br.com.wanderlei.config;
 
 import org.springframework.cloud.gateway.route.RouteLocator;
@@ -20,3 +21,4 @@ public class ApiGatwayConfiguration {
 
 
 }
+*/
